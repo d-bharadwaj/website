@@ -118,11 +118,13 @@ a.dotted-link:hover {
 }
 
 /* ======= Header ======= */
+
 .header {
   padding: 30px 0;
   background: #f5f5f5;
   border-top: 15px solid #ff1e1e;
 }
+
 
 .header .btn {
   font-weight: bold;
