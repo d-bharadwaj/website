@@ -9,7 +9,7 @@
 body {
   font-family: 'Lato', arial, sans-serif;
   color: #434343;
-  background: #fff3f3;
+  background: #ffeaea;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -122,7 +122,7 @@ a.dotted-link:hover {
 .header {
   padding: 30px 0;
   background: #f5f5f5;
-  border-top: 15px solid #ff1e1e;
+  border-top: 15px solid #fd4f4f;
 }
 
 
@@ -424,7 +424,7 @@ a.dotted-link:hover {
 }
 
 .skills .skillset .level-title .level-label {
-  color: #ccd1d6;
+  color: #a1a1a1;
   font-size: 14px;
   font-weight: 400;
   font-family: "Lato", arial, sans-serif;
@@ -435,7 +435,7 @@ a.dotted-link:hover {
 
 .skills .skillset .level-bar {
   height: 15px;
-  background: #e8e8e8;
+  background: #e0e0e0;
 }
 
 .skills .skillset .level-bar-inner {
